@@ -1925,7 +1925,7 @@ input, select, textarea {
 				padding: 40px 0 0px 0;
 			}
 
-				.box.style2 .inner:after {
+				/* .box.style2 .inner:after {
 					content: '';
 					display: block;
 					position: absolute;
@@ -1933,13 +1933,13 @@ input, select, textarea {
 					left: 50%;
 					height: 100%;
 					border-left: solid 1px #fff;
-				}
+				} */
 
 				.box.style2 .inner .row {
 					position: relative;
 				}
 
-					.box.style2 .inner .row:before {
+					/* .box.style2 .inner .row:before {
 						content: '';
 						display: block;
 						position: absolute;
@@ -1947,7 +1947,7 @@ input, select, textarea {
 						left: 20px;
 						width: calc(100% - 40px);
 						border-bottom: solid 1px #fff;
-					}
+					} */
 
 				.box.style2 .inner .image {
 					position: relative;
