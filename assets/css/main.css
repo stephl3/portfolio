@@ -1872,7 +1872,7 @@ input, select, textarea {
 				position: absolute;
 				z-index: 1;
 				background-color:inherit;
-				transition: 0.2s ease-in-out;
+				transition: 0.35s ease-in-out;
 			}
 
 			.box.style1 .inner > :last-child {
@@ -2182,7 +2182,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			margin: 0 0 9em 0;
-			font-size: 0.8em;
+			font-size: 0.4em;
 		}
 
 /* Poptrox */
@@ -2635,7 +2635,7 @@ input, select, textarea {
 			}
 
 			#footer .copyright {
-				font-size: 1em;
+				font-size: 0.5em;
 				margin: 0 0 4em 0;
 			}
 
