@@ -302,7 +302,7 @@ input, select, textarea {
 		}
 
 		.row > .col-3 {
-			width: 25%;
+			width: 20%;
 			display:flex;
 			flex-direction: column;
 			justify-content: center;
@@ -310,7 +310,7 @@ input, select, textarea {
 		}
 
 		.row > .off-3 {
-			margin-left: 25%;
+			margin-left: 20%;
 		}
 
 		.row > .col-4 {
@@ -549,11 +549,11 @@ input, select, textarea {
 				}
 
 				.row > .col-3-wide {
-					width: 25%;
+					width: 20%;
 				}
 
 				.row > .off-3-wide {
-					margin-left: 25%;
+					margin-left: 20%;
 				}
 
 				.row > .col-4-wide {
@@ -794,11 +794,11 @@ input, select, textarea {
 				}
 
 				.row > .col-3-normal {
-					width: 25%;
+					width: 20%;
 				}
 
 				.row > .off-3-normal {
-					margin-left: 25%;
+					margin-left: 20%;
 				}
 
 				.row > .col-4-normal {
@@ -1039,11 +1039,11 @@ input, select, textarea {
 				}
 
 				.row > .col-3-narrow {
-					width: 25%;
+					width: 20%;
 				}
 
 				.row > .off-3-narrow {
-					margin-left: 25%;
+					margin-left: 20%;
 				}
 
 				.row > .col-4-narrow {
@@ -1284,11 +1284,11 @@ input, select, textarea {
 				}
 
 				.row > .col-3-mobile {
-					width: 25%;
+					width: 20%;
 				}
 
 				.row > .off-3-mobile {
-					margin-left: 25%;
+					margin-left: 20%;
 				}
 
 				.row > .col-4-mobile {
@@ -1916,7 +1916,7 @@ input, select, textarea {
 			.box.style2 header {
 				display: inline-block;
 				background: #fff;
-				padding: 2em 3em 2em 3em;
+				padding: 2em 3em 0em 3em;
 				margin: 0;
 			}
 
@@ -1926,7 +1926,8 @@ input, select, textarea {
 
 			.box.style2 .inner {
 				position: relative;
-				padding: 40px 0 0px 0;
+				padding: 1em 3em 2em 3em;
+				background-color: #fff;
 			}
 
 				/* .box.style2 .inner:after {
@@ -2006,6 +2007,7 @@ input, select, textarea {
 
 		.label {
 			font-size: 1rem;
+			padding-bottom: 0.8rem;
 		}
 
 /* Header */
