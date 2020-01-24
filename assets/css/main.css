@@ -1867,7 +1867,7 @@ input, select, textarea {
 					position: absolute;
 					top: 0;
 					height: 100%;
-					width: auto;
+					width: 100%;
 				}
 
 				.box.style1 .image.hover:hover {
